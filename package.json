@@ -1,5 +1,7 @@
 {
-  
+  "env":{
+    "process.env.CI" : false
+  },
   "name": "githubfinder",
   "version": "0.1.0",
   "private": true,
